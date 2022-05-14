@@ -1,0 +1,307 @@
+,Neighborhood,Cluster Labels
+0,Wakefield,0.0
+1,Co-op City,0.0
+2,Eastchester,4.0
+3,Fieldston,0.0
+4,Riverdale,4.0
+5,Kingsbridge,3.0
+6,Marble Hill,3.0
+7,Woodlawn,0.0
+8,Norwood,0.0
+9,Williamsbridge,0.0
+10,Baychester,0.0
+11,Pelham Parkway,
+12,City Island,4.0
+13,Bedford Park,3.0
+14,University Heights,0.0
+15,Morris Heights,0.0
+16,Fordham,0.0
+17,East Tremont,0.0
+18,West Farms,0.0
+19,High  Bridge,
+20,Melrose,0.0
+21,Mott Haven,3.0
+22,Port Morris,0.0
+23,Longwood,0.0
+24,Hunts Point,
+25,Morrisania,0.0
+26,Soundview,0.0
+27,Clason Point,0.0
+28,Throgs Neck,0.0
+29,Country Club,4.0
+30,Parkchester,0.0
+31,Westchester Square,3.0
+32,Van Nest,0.0
+33,Morris Park,3.0
+34,Belmont,0.0
+35,Spuyten Duyvil,4.0
+36,North Riverdale,0.0
+37,Pelham Bay,3.0
+38,Schuylerville,3.0
+39,Edgewater Park,0.0
+40,Castle Hill,0.0
+41,Olinville,3.0
+42,Pelham Gardens,2.0
+43,Concourse,3.0
+44,Unionport,0.0
+45,Edenwald,0.0
+46,Bay Ridge,0.0
+47,Bensonhurst,0.0
+48,Sunset Park,0.0
+49,Greenpoint,4.0
+50,Gravesend,0.0
+51,Brighton Beach,0.0
+52,Sheepshead Bay,0.0
+53,Manhattan Terrace,0.0
+54,Flatbush,0.0
+55,Crown Heights,4.0
+56,East Flatbush,0.0
+57,Kensington,0.0
+58,Windsor Terrace,0.0
+59,Prospect Heights,4.0
+60,Brownsville,0.0
+61,Williamsburg,4.0
+62,Bushwick,4.0
+63,Bedford Stuyvesant,4.0
+64,Brooklyn Heights,0.0
+65,Cobble Hill,0.0
+66,Carroll Gardens,4.0
+67,Red Hook,4.0
+68,Gowanus,0.0
+69,Fort Greene,4.0
+70,Park Slope,0.0
+71,Cypress Hills,4.0
+72,East New York,0.0
+73,Starrett City,3.0
+74,Canarsie,0.0
+75,Flatlands,0.0
+76,Mill Island,0.0
+77,Manhattan Beach,0.0
+78,Coney Island,0.0
+79,Bath Beach,3.0
+80,Borough Park,0.0
+81,Dyker Heights,0.0
+82,Gerritsen Beach,
+83,Marine Park,4.0
+84,Clinton Hill,4.0
+85,Sea Gate,4.0
+86,Downtown,4.0
+87,Boerum Hill,4.0
+88,Prospect Lefferts Gardens,
+89,Ocean Hill,0.0
+90,City Line,3.0
+91,Bergen Beach,
+92,Midwood,0.0
+93,Prospect Park South,0.0
+94,Georgetown,0.0
+95,East Williamsburg,0.0
+96,North Side,4.0
+97,South Side,0.0
+98,Ocean Parkway,0.0
+99,Fort Hamilton,0.0
+100,Chinatown,4.0
+101,Washington Heights,0.0
+102,Inwood,3.0
+103,Hamilton Heights,0.0
+104,Manhattanville,4.0
+105,Central Harlem,4.0
+106,East Harlem,4.0
+107,Upper East Side,4.0
+108,Yorkville,
+109,Lenox Hill,4.0
+110,Roosevelt Island,4.0
+111,Upper West Side,1.0
+112,Lincoln Square,4.0
+113,Clinton,4.0
+114,Midtown,1.0
+115,Murray Hill,0.0
+116,Chelsea,4.0
+117,Greenwich Village,
+118,East Village,4.0
+119,Lower East Side,4.0
+120,Tribeca,1.0
+121,Little Italy,
+122,Soho,
+123,West Village,
+124,Manhattan Valley,0.0
+125,Morningside Heights,
+126,Gramercy,0.0
+127,Battery Park City,4.0
+128,Financial District,
+129,Astoria,0.0
+130,Woodside,0.0
+131,Jackson Heights,0.0
+132,Elmhurst,0.0
+133,Howard Beach,0.0
+134,Corona,0.0
+135,Forest Hills,3.0
+136,Kew Gardens,0.0
+137,Richmond Hill,4.0
+138,Flushing,0.0
+139,Long Island City,0.0
+140,Sunnyside,0.0
+141,East Elmhurst,4.0
+142,Maspeth,0.0
+143,Ridgewood,4.0
+144,Glendale,0.0
+145,Rego Park,0.0
+146,Woodhaven,0.0
+147,Ozone Park,4.0
+148,South Ozone Park,0.0
+149,College Point,0.0
+150,Whitestone,0.0
+151,Bayside,0.0
+152,Auburndale,0.0
+153,Little Neck,3.0
+154,Douglaston,0.0
+155,Glen Oaks,0.0
+156,Bellerose,0.0
+157,Kew Gardens Hills,0.0
+158,Fresh Meadows,3.0
+159,Briarwood,0.0
+160,Jamaica Center,4.0
+161,Oakland Gardens,0.0
+162,Queens Village,0.0
+163,Hollis,0.0
+164,South Jamaica,0.0
+165,St. Albans,4.0
+166,Rochdale,0.0
+167,Springfield Gardens,
+168,Cambria Heights,0.0
+169,Rosedale,0.0
+170,Far Rockaway,0.0
+171,Broad Channel,0.0
+172,Breezy Point,4.0
+173,Steinway,
+174,Beechhurst,0.0
+175,Bay Terrace,0.0
+176,Edgemere,
+177,Arverne,0.0
+178,Rockaway Beach,3.0
+179,Neponsit,
+180,Murray Hill,0.0
+181,Floral Park,0.0
+182,Holliswood,3.0
+183,Jamaica Estates,
+184,Queensboro Hill,0.0
+185,Hillcrest,
+186,Ravenswood,
+187,Lindenwood,0.0
+188,Laurelton,0.0
+189,Lefrak City,
+190,Belle Harbor,
+191,Rockaway Park,4.0
+192,Somerville,4.0
+193,Brookville,
+194,Bellaire,0.0
+195,North Corona,0.0
+196,Forest Hills Gardens,
+197,St. George,0.0
+198,New Brighton,0.0
+199,Stapleton,4.0
+200,Rosebank,0.0
+201,West Brighton,
+202,Grymes Hill,3.0
+203,Todt Hill,0.0
+204,South Beach,3.0
+205,Port Richmond,0.0
+206,Mariner's Harbor,
+207,Port Ivory,
+208,Castleton Corners,0.0
+209,New Springville,0.0
+210,Travis,4.0
+211,New Dorp,0.0
+212,Oakwood,4.0
+213,Great Kills,3.0
+214,Eltingville,4.0
+215,Annadale,0.0
+216,Woodrow,0.0
+217,Tottenville,0.0
+218,Tompkinsville,0.0
+219,Silver Lake,4.0
+220,Sunnyside,0.0
+221,Ditmas Park,4.0
+222,Wingate,3.0
+223,Rugby,0.0
+224,Park Hill,
+225,Westerleigh,0.0
+226,Graniteville,3.0
+227,Arlington,0.0
+228,Arrochar,3.0
+229,Grasmere,
+230,Old Town,4.0
+231,Dongan Hills,4.0
+232,Midland Beach,
+233,Grant City,0.0
+234,New Dorp Beach,3.0
+235,Bay Terrace,0.0
+236,Huguenot,
+237,Pleasant Plains,0.0
+238,Butler Manor,
+239,Charleston,0.0
+240,Rossville,0.0
+241,Arden Heights,
+242,Greenridge,0.0
+243,Heartland Village,
+244,Chelsea,4.0
+245,Bloomfield,
+246,Bulls Head,4.0
+247,Carnegie Hill,1.0
+248,Noho,
+249,Civic Center,4.0
+250,Midtown South,
+251,Richmond Town,3.0
+252,Shore Acres,0.0
+253,Clifton,
+254,Concord,4.0
+255,Emerson Hill,
+256,Randall Manor,4.0
+257,Howland Hook,0.0
+258,Elm Park,
+259,Remsen Village,
+260,New Lots,0.0
+261,Paerdegat Basin,
+262,Mill Basin,4.0
+263,Jamaica Hills,0.0
+264,Utopia,0.0
+265,Pomonok,0.0
+266,Astoria Heights,0.0
+267,Claremont Village,
+268,Concourse Village,0.0
+269,Mount Eden,0.0
+270,Mount Hope,3.0
+271,Sutton Place,
+272,Hunters Point,4.0
+273,Turtle Bay,
+274,Tudor City,
+275,Stuyvesant Town,0.0
+276,Flatiron,4.0
+277,Sunnyside Gardens,0.0
+278,Blissville,0.0
+279,Fulton Ferry,4.0
+280,Vinegar Hill,
+281,Weeksville,0.0
+282,Broadway Junction,0.0
+283,Dumbo,0.0
+284,Manor Heights,
+285,Willowbrook,0.0
+286,Sandy Ground,
+287,Egbertville,4.0
+288,Roxbury,
+289,Homecrest,4.0
+290,Middle Village,4.0
+291,Prince's Bay,0.0
+292,Lighthouse Hill,
+293,Richmond Valley,0.0
+294,Malba,
+295,Highland Park,
+296,Madison,
+297,Bronxdale,3.0
+298,Allerton,3.0
+299,Kingsbridge Heights,0.0
+300,Erasmus,
+301,Hudson Yards,3.0
+302,Hammels,0.0
+303,Bayswater,3.0
+304,Queensbridge,
+305,Fox Hills,0.0
